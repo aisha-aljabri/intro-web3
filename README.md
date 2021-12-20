@@ -1,9 +1,9 @@
 ## How to get started using the Web3.js library to interact with an Ethereum node locally?
-<br>
+
 ### Prerequisites
 > - [Node.js](https://nodejs.org/en/download/)
 
-<br>
+
 ### Install Dependencies
 web3:<br>
  >`npm install web3`
@@ -11,7 +11,7 @@ web3:<br>
 ganache-cli:<br>
  >`npm install -g ganache-cli`
 
-<br>
+
 ### Run the code
 From a command line, navigate to your project folder and start ganache cli:<br>
  >`ganache-cli`
